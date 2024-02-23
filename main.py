@@ -1,6 +1,7 @@
 #This program is for autoclick. Be carreful.
 #It consumes a significant amount of resources relative to its output.
 
+#You need to install pynput (Windows: pip install pynput)
 #Import libraries
 import time
 import threading
